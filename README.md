@@ -36,9 +36,8 @@ The repository is organized by problem difficulty and topics, with each solution
 ## Solutions
 
 - Each problem is organized by difficulty: Easy, Medium, and Hard.
-- Solutions are available in various languages: Python, Java, C++, and more.
+- Solutions are available primarily in javascript since it is my main language.
 - I strive to provide clean and well-commented code to make learning easier.
-- Some problems have their own README files to explain the problem and my approach.
 
 ## Contributing
 
